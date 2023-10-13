@@ -7,7 +7,7 @@
 
 > quote
 
-'''
+```
 Code block
-'''
+```
 
