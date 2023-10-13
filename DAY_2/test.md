@@ -10,4 +10,4 @@
 ```
 Code block
 ```
-![purple]!https://github.com/BenHubLee/Education/blob/main/purple.jpeg?raw=true 
+![purple](https://github.com/BenHubLee/Education/blob/main/purple.jpeg?raw=true) 
